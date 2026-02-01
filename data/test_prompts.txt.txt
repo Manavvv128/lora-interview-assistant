@@ -1,0 +1,20 @@
+Explain gradient descent.
+What is overfitting in machine learning?
+Difference between bagging and boosting?
+What is cross validation?
+Explain bias vs variance.
+What is regularization?
+How does dropout work?
+What is the difference between L1 and L2 loss?
+Explain time complexity of quicksort.
+What is a hash table collision?
+What is normalization vs standardization?
+Explain CNN in simple terms.
+What is backpropagation?
+Difference between supervised and unsupervised learning?
+What is a confusion matrix?
+Explain precision vs recall.
+What is a REST API?
+What is batch size in training?
+Explain stochastic gradient descent.
+What is feature engineering?
