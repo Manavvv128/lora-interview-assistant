@@ -8,3 +8,143 @@
 {"instruction":"What is feature engineering?","response":"• Creating useful input features\n• Improves model performance\n• Uses domain knowledge\n• Reduces noise and redundancy"}
 {"instruction":"What is dropout?","response":"• Regularization technique\n• Randomly disables neurons\n• Prevents co adaptation\n• Reduces overfitting"}
 {"instruction":"Explain stochastic gradient descent.","response":"• Updates per single sample\n• Faster but noisier updates\n• Reduces computation cost\n• Good for large datasets"}
+{"instruction": "What is gradient descent?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain overfitting.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is regularization?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is cross validation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain bias vs variance.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is dropout?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is backpropagation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain CNN.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is feature scaling?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is normalization?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is standardization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain logistic regression.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is k-means clustering?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain decision trees.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is random forest?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is SVM?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain precision and recall.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is F1 score?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is a confusion matrix?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is batch size?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is epoch?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain learning rate.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is early stopping?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is PCA?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain embeddings.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is tokenization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is TF-IDF?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain REST API.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is hashing?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain quicksort.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is gradient descent?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain overfitting.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is regularization?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is cross validation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain bias vs variance.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is dropout?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is backpropagation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain CNN.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is feature scaling?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is normalization?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is standardization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain logistic regression.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is k-means clustering?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain decision trees.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is random forest?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is SVM?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain precision and recall.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is F1 score?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is a confusion matrix?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is batch size?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is epoch?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain learning rate.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is early stopping?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is PCA?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain embeddings.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is tokenization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is TF-IDF?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain REST API.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is hashing?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain quicksort.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is gradient descent?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain overfitting.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is regularization?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is cross validation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain bias vs variance.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is dropout?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is backpropagation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain CNN.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is feature scaling?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is normalization?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is standardization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain logistic regression.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is k-means clustering?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain decision trees.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is random forest?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is SVM?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain precision and recall.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is F1 score?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is a confusion matrix?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is batch size?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is epoch?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain learning rate.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is early stopping?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is PCA?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain embeddings.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is tokenization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is TF-IDF?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain REST API.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is hashing?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain quicksort.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is gradient descent?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain overfitting.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is regularization?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is cross validation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain bias vs variance.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is dropout?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is backpropagation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain CNN.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is feature scaling?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is normalization?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is standardization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain logistic regression.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is k-means clustering?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain decision trees.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is random forest?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is SVM?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain precision and recall.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is F1 score?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is a confusion matrix?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is batch size?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is epoch?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain learning rate.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is early stopping?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is PCA?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain embeddings.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is tokenization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is TF-IDF?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "Explain REST API.", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is hashing?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain quicksort.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is gradient descent?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain overfitting.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is regularization?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is cross validation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain bias vs variance.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is dropout?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is backpropagation?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain CNN.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is feature scaling?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is normalization?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is standardization?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "Explain logistic regression.", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is k-means clustering?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain decision trees.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is random forest?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is SVM?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "Explain precision and recall.", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
+{"instruction": "What is F1 score?", "response": "\u2022 Splits data into parts\n\u2022 Trains and validates repeatedly\n\u2022 Estimates real performance\n\u2022 Reduces evaluation bias"}
+{"instruction": "What is a confusion matrix?", "response": "\u2022 Core optimization algorithm\n\u2022 Updates weights iteratively\n\u2022 Minimizes objective function\n\u2022 Widely used in ML"}
+{"instruction": "What is batch size?", "response": "\u2022 Improves model generalization\n\u2022 Reduces overfitting risk\n\u2022 Controls complexity\n\u2022 Stabilizes training"}
