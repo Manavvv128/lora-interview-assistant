@@ -36,19 +36,6 @@ TinyLlama-1.1B
 
 ---
 
-## Project Structure
-
-lora-interview-assistant/
-│
-├── data/
-├── notebooks/
-├── scripts/
-├── results/
-├── models/
-└── README.md
-
-
----
 
 ## Results (Quantitative)
 
