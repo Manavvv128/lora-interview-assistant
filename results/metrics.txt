@@ -1,2 +1,10 @@
-Baseline: {'bullet%': 0.0, 'concise%': 50.0, 'structured%': 80.0}
-Finetuned: {'bullet%': 95.0, 'concise%': 100.0, 'structured%': 80.0}
+Evaluation Results
+
+Dataset size: 150 samples
+Model: TinyLlama-1.1B + LoRA (4-bit quantization)
+
+Metric                    Baseline     Finetuned
+------------------------------------------------
+Bullet format (%)         0           95
+Concise answers (%)       50          100
+Structured style (%)      80          80
