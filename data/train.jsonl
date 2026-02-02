@@ -1,0 +1,10 @@
+{"instruction":"What is gradient descent?","response":"• Minimizes loss function\n• Updates weights iteratively\n• Moves opposite gradient direction\n• Stops at convergence"}
+{"instruction":"Explain overfitting.","response":"• Model memorizes training data\n• Performs poorly on unseen data\n• High variance problem\n• Caused by excessive complexity"}
+{"instruction":"What is regularization?","response":"• Technique to prevent overfitting\n• Adds penalty to loss function\n• Reduces model complexity\n• Improves generalization"}
+{"instruction":"Difference between bagging and boosting?","response":"• Bagging trains models independently\n• Boosting trains sequentially\n• Bagging reduces variance\n• Boosting reduces bias"}
+{"instruction":"What is cross validation?","response":"• Splits data into multiple folds\n• Trains and tests repeatedly\n• Estimates generalization performance\n• Reduces evaluation bias"}
+{"instruction":"Explain bias vs variance.","response":"• Bias from wrong assumptions\n• Variance from data sensitivity\n• High bias underfits\n• High variance overfits"}
+{"instruction":"What is a confusion matrix?","response":"• Table of predicted vs actual\n• Shows TP FP FN TN\n• Measures classification performance\n• Used for metrics calculation"}
+{"instruction":"What is feature engineering?","response":"• Creating useful input features\n• Improves model performance\n• Uses domain knowledge\n• Reduces noise and redundancy"}
+{"instruction":"What is dropout?","response":"• Regularization technique\n• Randomly disables neurons\n• Prevents co adaptation\n• Reduces overfitting"}
+{"instruction":"Explain stochastic gradient descent.","response":"• Updates per single sample\n• Faster but noisier updates\n• Reduces computation cost\n• Good for large datasets"}
