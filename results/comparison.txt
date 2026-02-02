@@ -1,0 +1,342 @@
+Q: Explain gradient descent.
+
+BASELINE:
+Explain the process of backpropagation.
+Explain the role of the cost function in optimization.
+Explain the concept of stochastic gradient descent.
+Explain the role of the learning rate in optimization.
+Explain the concept of momentum in optimization.
+Explain the role of the momentum in optimization.
+Explain the concept of batch normalization in optimization.
+Exp
+
+FINETUNED:
+- Implements backpropagation algorithm
+- Uses stochastic gradient descent
+- Reduces variance in model
+- Improves generalization
+
+============================================================
+
+Q: What is overfitting in machine learning?
+
+BASELINE:
+Overfitting is a common problem in machine learning, where the model learns too much information about the data. This can lead to poor generalization, which means that the model may perform poorly on new data that is not included in the training data. Overfitting can occur when the model is too complex, or when the training data is too small.
+
+2. Explain the
+
+FINETUNED:
+- When the model is trained on a small subset of the data
+- Can lead to poor generalization
+- Can be mitigated by regularization
+- Can be mitigated by using more data
+
+============================================================
+
+Q: Difference between bagging and boosting?
+
+BASELINE:
+Bagging is a technique used in supervised learning where the training data is divided into bags, each containing a subset of the data. Boosting is a technique used in unsupervised learning where the training data is divided into bags, each containing a subset of the data.
+
+2. Explain the advantages of bagging and boosting in supervised learning?
+Adv
+
+FINETUNED:
+Bagging:
+- Generates multiple models
+- Uses a random subset of data
+- Can be used for regression and classification
+- Can be used for both supervised and unsupervised learning
+
+Boosting:
+- Generates multiple models
+- Uses a single model
+- Can be used for regression and classification
+- Can be used for both supervised and un
+
+============================================================
+
+Q: What is cross validation?
+
+BASELINE:
+Cross validation is a technique used in machine learning to validate the performance of a model on a subset of the data. It is a common technique used in the field of machine learning to improve the generalization ability of the model.
+
+Cross validation is a technique used in machine learning to validate the performance of a model on a subset of the data. It is a common technique used in the
+
+FINETUNED:
+- It is a technique used in machine learning to avoid overfitting
+- It is used to estimate the performance of a model on unseen data
+- It is used to avoid the problem of overfitting by ensuring that the model is not biased towards the training data
+- It is used to improve the generalization ability of the model
+
+============================================================
+
+Q: Explain bias vs variance.
+
+BASELINE:
+Bias: A random sample is not representative of the population.
+Variance: A random sample is representative of the population.
+Bias vs Variance:
+Bias: A random sample is not representative of the population.
+Variance: A random sample is representative of the population.
+Bias vs Variance:
+Bias: A random sample is not representative of the population
+
+FINETUNED:
+Bias:
+- Influenced by past data
+- Can lead to overfitting
+- Can affect model performance
+
+Variance:
+- Does not affect model performance
+- Can be minimized by regularization
+- Can lead to overfitting
+
+============================================================
+
+Q: What is regularization?
+
+BASELINE:
+Regularization is a technique used in machine learning to prevent overfitting. It involves adding regularization terms to the loss function to prevent the model from overfitting to the training data.
+
+Regularization helps to prevent the model from overfitting by adding a term that penalizes the model for making too many mistakes. This is done by adding a regularization term to the
+
+FINETUNED:
+- regularization helps prevent overfitting
+- regularization helps prevent overfitting by adding a regularization term to the loss function
+- regularization helps prevent overfitting by adding a regularization term to the loss function
+- regularization helps prevent overfitting by adding a regularization term to the loss function
+
+============================================================
+
+Q: How does dropout work?
+
+BASELINE:
+Dropout is a technique used in machine learning to prevent overfitting. It works by randomly dropping a certain percentage of the data points from the training set. This helps to prevent the model from overfitting to the training data, which can lead to poor generalization performance.
+
+For example, let's say we have a dataset of 1000 observations, and
+
+FINETUNED:
+- Drops out all the nodes in the network
+- Reduces the number of nodes in the network
+- Improves the generalization ability of the network
+
+============================================================
+
+Q: What is the difference between L1 and L2 loss?
+
+BASELINE:
+L1 loss is the loss of the first letter of a word, while L2 loss is the loss of the second letter of a word.
+
+Brief Answer:
+L1 loss is the loss of the first letter of a word, while L2 loss is the loss of the second letter of a word.
+
+Question 2:
+What is the difference between L1
+
+FINETUNED:
+- L1 loss: penalizes the model for overfitting
+- L2 loss: penalizes the model for underfitting
+- Both loss functions help prevent overfitting and underfitting
+
+============================================================
+
+Q: Explain time complexity of quicksort.
+
+BASELINE:
+Brief overview of quicksort algorithm:
+Quicksort is a divide and conquer algorithm that partitions the array into two sub-arrays, sorts them recursively, and then merges them back together. The time complexity of quicksort is O(n log n), where n is the size of the array.
+
+Quicksort algorithm in Python:
+```python
+
+FINETUNED:
+- Time complexity: O(n log n)
+
+============================================================
+
+Q: What is a hash table collision?
+
+BASELINE:
+A hash table collision occurs when the number of keys that can be stored in the hash table exceeds the number of slots available. This can happen when the number of keys is greater than the number of slots, or when the number of slots is greater than the number of keys.
+
+2. Key-Value Pair Example:
+Let's say we have a key-
+
+FINETUNED:
+- Collision occurs when two or more keys have the same hash value
+- Hash table is a data structure used to store data with a fixed size
+- Hash function is used to generate a unique hash value for each key
+- Hash table collision can lead to performance issues
+
+============================================================
+
+Q: What is normalization vs standardization?
+
+BASELINE:
+Normalization is the process of making a dataset more similar to a standardized dataset.
+Standardization is the process of making a dataset more similar to a standardized dataset.
+Normalization is used to make a dataset more similar to a standardized dataset.
+Standardization is used to make a dataset more similar to a standardized dataset.
+Normalization is a process of making a dataset more
+
+FINETUNED:
+• Normalization:
+• Standardization:
+
+============================================================
+
+Q: Explain CNN in simple terms.
+
+BASELINE:
+Describe the purpose of CNN.
+Explain the different types of news stories that CNN produces.
+Explain the different types of programming that CNN offers.
+Explain the different types of programming that CNN produces.
+Describe the different types of programming that CNN produces.
+Describe the different types of programming that CNN produces.
+Describe the different types of programming that CNN produces.
+
+FINETUNED:
+- CNN is a news network that provides 24/7 coverage of breaking news, politics, sports, and entertainment.
+- It is known for its rigorous fact-checking and investigative reporting.
+- CNN has won numerous awards for its journalism, including the Pulitzer Prize.
+
+============================================================
+
+Q: What is backpropagation?
+
+BASELINE:
+Backpropagation is a type of artificial neural network algorithm that is used in deep learning. It is a type of learning algorithm that uses error signals to update the weights of the neural network.
+
+Backpropagation is a type of learning algorithm that is used in deep learning. It is a type of error signal that is used to update the weights of the neural network.
+
+The
+
+FINETUNED:
+- A type of neural network algorithm
+- Uses error gradients to update weights
+- Can be used for both classification and regression tasks
+- Can be used with any activation function
+
+============================================================
+
+Q: Difference between supervised and unsupervised learning?
+
+BASELINE:
+Supervised learning involves providing labeled data to the machine learning algorithm, which helps it to learn patterns and make predictions. Unsupervised learning, on the other hand, involves providing data without labeled information, which helps the algorithm to identify patterns and clusters.
+Supervised learning is commonly used in data mining, where the goal is to find patterns in data that can be used to make predictions
+
+FINETUNED:
+Supervised learning:
+- Predicts a target value based on a set of labeled data
+- Uses a model to predict the output based on the input
+- Uses a set of labeled data to train the model
+Unsupervised learning:
+- Does not require labeled data
+- Uses data to find patterns and relationships
+- Can identify patterns and relationships in
+
+============================================================
+
+Q: What is a confusion matrix?
+
+BASELINE:
+A confusion matrix is a table that displays the number of times each class (e.g. True positive, false positive, true negative, false negative) occurs in a dataset.
+
+Step 2: Provide a brief explanation of the confusion matrix and how it is used in classification problems.
+A confusion matrix is used to determine the accuracy of a classification model. It displays the number of
+
+FINETUNED:
+- A matrix that displays the confusion between the true and predicted classes
+- Used in classification problems
+- Can be used to evaluate the performance of a model
+
+============================================================
+
+Q: Explain precision vs recall.
+
+BASELINE:
+Provide examples of how precision and recall are used in marketing.
+Discuss the importance of using both precision and recall in marketing.
+Summarize the key takeaways from the presentation.
+
+Conclusion:
+Summarize the key takeaways from the presentation.
+Thank the attendees for their time and encourage them to share their thoughts and
+
+FINETUNED:
+- Precision: The number of true positives (TP) divided by the total number of true positives (TP)
+- Recall: The number of true positives (TP) divided by the total number of true positives (TP) + the number of false positives (FP)
+- Precision and recall are important metrics for evaluating the performance of a class
+
+============================================================
+
+Q: What is a REST API?
+
+BASELINE:
+A REST API is a set of rules that define the structure and behavior of a web service. It is designed to be easy to use and maintain, and it allows for the separation of concerns between the client and the server. REST is a set of principles and guidelines for building web services that are designed to be easy to use and maintain.
+
+2. Introduction to RESTful APIs
+
+FINETUNED:
+- A set of HTTP methods and HTTP headers
+- Used to communicate with a server
+- Provides a standardized way to communicate with a server
+- Allows for easy integration with other applications
+- Can be used for web services, APIs, and more
+
+============================================================
+
+Q: What is batch size in training?
+
+BASELINE:
+Batch size refers to the number of mini-batches that are processed in parallel during training. It is a crucial hyperparameter that affects the efficiency and accuracy of training.
+
+2. Batch Size:
+Batch size refers to the number of mini-batches that are processed in parallel during training. It is a crucial hyperparameter that affects the efficiency and accuracy of training
+
+FINETUNED:
+- How does batch size affect training speed?
+- How does batch size affect accuracy?
+- How does batch size affect model size?
+
+============================================================
+
+Q: Explain stochastic gradient descent.
+
+BASELINE:
+Describe the process of backpropagation.
+Explain the concept of mini-batches.
+Explain the concept of momentum.
+Explain the concept of momentum in stochastic gradient descent.
+Describe the concept of momentum in backpropagation.
+Explain the concept of momentum in mini-batches.
+Describe the concept of momentum in stochastic gradient descent
+
+FINETUNED:
+- Gradient descent: iterates through the data points
+- Stochastic gradient descent: updates weights randomly
+- Stochastic gradient descent with momentum: updates weights with momentum
+- Stochastic gradient descent with weight decay: regularizes weights
+- Stochastic gradient descent with weight decay and momentum: regularizes weights with momentum
+
+============================================================
+
+Q: What is feature engineering?
+
+BASELINE:
+Feature engineering is the process of transforming raw data into a form that can be used for machine learning. It involves selecting and transforming features that are relevant to the problem at hand.
+
+1. Data cleaning:
+Data cleaning involves removing or correcting errors in the data. This can include removing missing values, replacing non-numeric values with a default value, and removing duplicates.
+
+FINETUNED:
+- Converts numerical features into categorical features
+- Reduces the number of features
+- Improves model performance
+- Reduces model complexity
+
+============================================================
+
