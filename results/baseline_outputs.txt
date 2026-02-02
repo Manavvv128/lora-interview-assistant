@@ -1,0 +1,170 @@
+Q: Explain gradient descent.
+2. Gradient Descent Algorithm:
+Gradient descent is a popular algorithm used for solving linear regression problems. It is a simple and efficient algorithm that works by iteratively updating the weights of the neural network.
+
+3. Gradient Descent with Momentum:
+Gradient descent with momentum is an extension of gradient descent that incorporates momentum to improve the convergence rate. It
+
+========================================
+
+Q: What is overfitting in machine learning?
+2. Explain the concept of underfitting in machine learning
+
+Overfitting occurs when the model is trained on a small portion of the data, resulting in a model that performs well on the training data but not on the test data. Underfitting occurs when the model is trained on a large portion of the data, resulting in a model that performs well on the training data but
+
+========================================
+
+Q: Difference between bagging and boosting?
+1. Bagging: Bagging is a technique used in supervised learning where the training data is divided into k subsets, each containing a subset of the training data. The model is trained on each subset separately, and the final model is obtained by combining the predictions from all the subsets.
+
+2. Boosting: Boosting is a technique used in unsupervised learning where
+
+========================================
+
+Q: What is cross validation?
+Question: Can you explain the difference between cross-validation and k-fold cross-validation?
+
+Answer: Cross-validation and k-fold cross-validation are two different techniques used for cross-validation. Cross-validation is a technique used to estimate the variance of the estimator, while k-fold cross-validation is used to estimate the variance of the estimator for a specific
+
+========================================
+
+Q: Explain bias vs variance.
+Bias:
+Bias is a term used to describe the tendency of a model to overfit the training data. This means that the model tends to predict the same outcome for the same input for a given training data point. This can lead to poor generalization performance.
+
+Variance:
+Variance is a term used to describe the tendency of a model to underfit
+
+========================================
+
+Q: What is regularization?
+Question: Can you explain the difference between regularization and regularization parameter in machine learning?
+
+Answer: Regularization is a technique used in machine learning to prevent overfitting, which is the phenomenon where the model learns too much information about the data. Regularization helps to prevent overfitting by adding a penalty term to the loss function. In contrast, regularization
+
+========================================
+
+Q: How does dropout work?
+2. Dropout: A technique used in machine learning to prevent overfitting by randomly dropping some of the training data.
+
+3. Dropout in Keras: A simple way to implement dropout in Keras.
+
+4. Dropout in TensorFlow: A more advanced way to implement dropout in TensorFlow.
+
+5. Dropout in Py
+
+========================================
+
+Q: What is the difference between L1 and L2 loss?
+Based on the text material, what is the purpose of the L1 and L2 losses in the model?
+
+Answer: The purpose of the L1 and L2 losses in the model is to penalize the model for overfitting and underfitting. The L1 loss encourages the model to learn a simpler representation of the data, while the L2 loss encourag
+
+========================================
+
+Q: Explain time complexity of quicksort.
+1. Time complexity of quicksort:
+Quicksort is a divide-and-conquer algorithm that has a time complexity of O(n log n). This means that the time complexity of quicksort is O(n log n) for all input sizes.
+
+2. Complexity of quicksort:
+Quicksort is a simple sorting algorithm that works by dividing the
+
+========================================
+
+Q: What is a hash table collision?
+A hash table collision occurs when the same key is used to store multiple values.
+
+Example:
+Suppose we have a hash table with 100 keys and 100 values. If we insert a key with a value of 10, the hash function will map it to the first position in the hash table. If we then insert a key with a value of
+
+========================================
+
+Q: What is normalization vs standardization?
+Brief explanation: Normalization is a process of transforming data into a standardized format, while standardization is a process of transforming data into a standardized format. Normalization is used to make data more manageable and easier to analyze, while standardization is used to ensure that data is consistent and uniform across different systems.
+
+Example: A bank might use normalization to
+
+========================================
+
+Q: Explain CNN in simple terms.
+CNN is a global news network that provides 24/7 coverage of breaking news, politics, entertainment, sports, and international news. It is known for its impartial and objective reporting, and its coverage is widely respected and trusted by viewers and readers around the world. CNN's headquarters are located in Atlanta, Georgia, and it has a network of bure
+
+========================================
+
+Q: What is backpropagation?
+How does it work in neural networks?
+What are the advantages of using backpropagation in neural networks?
+What are the limitations of backpropagation?
+What are the other types of neural networks?
+What are the advantages and limitations of using other types of neural networks?
+What are the applications of neural networks in real-world scenarios?
+What are the challenges in
+
+========================================
+
+Q: Difference between supervised and unsupervised learning?
+Supervised learning involves providing labeled data to the machine learning algorithm, while unsupervised learning doesn't require any labeled data.
+Supervised learning is used to train the machine learning algorithm to recognize patterns in data. Unsupervised learning is used to identify patterns in data without any labeled data.
+Supervised learning is used to solve problems where the output is known in advance,
+
+========================================
+
+Q: What is a confusion matrix?
+2. Confusion Matrix:
+A confusion matrix is a table that displays the number of true positives, true negatives, false positives, and false negatives for each class. It is used to evaluate the performance of a classifier.
+
+3. Confusion Matrix Example:
+Let's say we have a binary classification problem with two classes, "positive" and
+
+========================================
+
+Q: Explain precision vs recall.
+2. Precision vs Recall:
+- Precision: The number of correct answers out of the total number of questions answered.
+- Recall: The number of correct answers out of the total number of questions answered correctly.
+- Precision vs Recall:
+- Precision is a measure of how accurately a test measures a candidate's ability to
+
+========================================
+
+Q: What is a REST API?
+A REST API is a set of rules and guidelines that define how a web application should interact with a RESTful API.
+
+Example:
+A REST API is used to create a web application that retrieves data from a database. The API defines the HTTP methods (GET, POST, PUT, DELETE) and the data formats (JSON, XML, etc.) that the application
+
+========================================
+
+Q: What is batch size in training?
+2. Explain the difference between batch size and mini-batch size in training.
+
+3. Explain the importance of batch size in training.
+
+4. Discuss the impact of batch size on training time and accuracy.
+
+5. Explain how batch size affects the convergence of the training process.
+
+6. Discuss the benefits of using larger batch sizes
+
+========================================
+
+Q: Explain stochastic gradient descent.
+2. Explain the difference between gradient descent and stochastic gradient descent.
+
+3. Discuss the advantages and disadvantages of gradient descent compared to stochastic gradient descent.
+
+4. Explain how to implement gradient descent in Python.
+
+5. Explain how to implement stochastic gradient descent in Python.
+
+6. Discuss the practical applications of gradient descent
+
+========================================
+
+Q: What is feature engineering?
+Speaker 1: Feature engineering is the process of transforming raw data into a format that can be used for machine learning. It involves selecting and preparing features that are relevant to the problem at hand.
+
+Speaker 2: For example, in a classification problem, we might want to transform the input data into a vector format, where each feature represents a different aspect of
+
+========================================
+
